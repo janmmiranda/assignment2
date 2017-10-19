@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="contacts">Contacts</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="contact_profile">Contact Profile</string>
+    <string name="add_button">Add</string>
+    <string name="delete_button">Delete</string>
+    <string name="add_person_button">Add Person</string>
+    <string name="relationship">Relationship</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
